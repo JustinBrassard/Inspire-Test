@@ -5,7 +5,7 @@
 **This is working**
 
 
-Things to do today
+Random list of things
 1. Github
 2. Markdown
 3. Go to class
